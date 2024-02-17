@@ -9,9 +9,9 @@
 </head>
 <body>
 <br>
-<s:property value="username" />
+<s:property value="username"/>
 <br>
-<s:property value="username" />
+<s:property value="password"/>
 <br>
 </body>
 </html>
